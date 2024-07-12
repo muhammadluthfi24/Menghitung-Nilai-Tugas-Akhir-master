@@ -1,0 +1,47 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    background: url(./seamless-texture-wood-old-oak-or-modern-wood-texture-free-photo-2.JPG)no-repeat;
+    background-size: cover;
+}
+#main{
+    width: 40%;
+    height: 500px;
+    background-color: white;
+    text-align: center;
+    float: left;
+    margin: 40px 10px 0 150px;
+}
+#head{
+    background-color: black;
+    width: 100%;
+    height: 55px;
+    color: white;
+    padding: 10px;
+    margin-bottom: 60px;
+}
+
+#main input{
+    height: 30px;
+    width: 45%;
+    margin-bottom: 10px;
+   font-size: 20px;
+   text-align: center;
+   background-color: #bf8040;
+   padding-right: 50px;
+}
+#main label{
+    margin-bottom: 10px;
+   font-size: 23px;
+   padding-right: 50px;
+}
+#result{
+    height: 500px;
+    width: 30%;
+    float: left;
+    margin-top: 40px;
+    background-color: white;
+}
